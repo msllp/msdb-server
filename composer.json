@@ -24,7 +24,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "MSPlus\\DBServer\\Provider\\DBDriveProvider"
+                "MSPlus\\DBServer\\Provider\DBDriverProvider
             ],
             "aliases": {}
         }
