@@ -9,7 +9,8 @@
         }
     ],
     "require": {
-        "php": "^7.2.5"
+        "php": "^7.2.5",
+        "msllp/core": "dev-master"
 
     },
     "require-dev": {
@@ -23,7 +24,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "\\MSPlus\\DBServer\\Provider\\DBDriveProvider"
+                "MSPlus\\DBServer\\Provider\\DBDriveProvider"
             ],
             "aliases": {}
         }
