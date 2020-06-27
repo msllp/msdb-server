@@ -1,6 +1,6 @@
 {
     "name": "msllp/msdb-server",
-    "type": "Database Server",
+    "type": "Database-Server",
     "license": "MIT",
     "authors": [
         {
