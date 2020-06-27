@@ -17,13 +17,13 @@
     },
     "autoload": {
         "psr-4": {
-            "MS\\DBServer\\": "src/"
+            "MSPlus\\DBServer\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "MS\\DBServer\\Provider\\DBDriveProvider"
+                "\\MSPlus\\DBServer\\Provider\\DBDriveProvider"
             ],
             "aliases": {}
         }

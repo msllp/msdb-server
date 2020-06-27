@@ -1,5 +1,5 @@
 <?php
-namespace MS\DBServer\Provider;
+namespace MSPlus\DBServer\Provider;
 
 
 define('DS',DIRECTORY_SEPARATOR);

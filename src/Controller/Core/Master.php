@@ -1,7 +1,7 @@
 <?php
 
 
-namespace MS\DBServer\Controller\Core;
+namespace MSPlus\DBServer\Controller\Core;
 
 
 class Master
